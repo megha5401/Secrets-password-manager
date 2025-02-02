@@ -10,11 +10,6 @@
 - **Copy Passwords**: Easily copy any password, website URL, or username to your clipboard with the provided "Copy" button.
 - **Password Masking**: Passwords are displayed as masked text (e.g., `*********`) for security. You can also copy the masked password directly.
 
-## Screenshot
-
-Here’s a screenshot of the project:
-
-![Screenshot of the project](C:\Users\MEGHA\password-manager\Secrets.png)
 
 ## Technologies Used
 

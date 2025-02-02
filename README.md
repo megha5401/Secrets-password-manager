@@ -14,7 +14,7 @@
 
 Here’s a screenshot of the project:
 
-![Screenshot of the project](C:\Users\MEGHA\password-manager\passx-password-manager\Secrets.png)
+![Screenshot of the project](C:\Users\MEGHA\password-manager\Secrets.png)
 
 ## Technologies Used
 
